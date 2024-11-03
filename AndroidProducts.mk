@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_RE5C9F.mk
+    $(LOCAL_DIR)/twrp_RE5C9F.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_RE5C9F-user \
